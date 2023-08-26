@@ -1,0 +1,11 @@
+p {
+    font-size: 25px;
+}
+
+button {
+    font-size: 25px;
+    border-radius: 25px;
+    background-color: red;
+    color: white;
+}
+
